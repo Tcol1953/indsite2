@@ -1,0 +1,17 @@
+@charset "utf-8";
+h1 {
+    color: #FF0003;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 3em;
+    text-align: center;
+}
+p {
+    color: #FF0003;
+}
+a {
+    color: #FC0307;
+}
+.color {
+    color: #DF585A;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
